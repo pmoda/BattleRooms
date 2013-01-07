@@ -1,0 +1,32 @@
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Lumberjack Bustle\BranchObstacle.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Lumberjack Bustle\ChopObstacle.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Lumberjack Bustle\FloorObstacle.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Lumberjack Bustle\treeBackground.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Lumberjack Bustle\forestBackground.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Character\BlueKnightSpriteSheet.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Character\BlackKnightSpriteSheet.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Character\GreenKnightSpriteSheet.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Character\PinkKnightSpriteSheet.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Instruction\InstWizardAndScrolls.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Lumberjack Bustle\InstBackForest.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Instruction\LittleController.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Instruction\check.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Lumberjack Bustle\Countdown.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Lumberjack Bustle\finishline.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Lumberjack Bustle\ffBackground.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\BumperBalls\prettyUnicorns.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Score.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Instruction\InstructionSpriteFont.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Lumberjack Bustle\BennyHillTheme.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Lumberjack Bustle\BennyHillTheme.wma
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Character\LumberjackBustle.xgs
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Character\Wave Bank.xwb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Character\Sound Bank.xsb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\ProjectDream.exe.config
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\ProjectDream.exe
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\ProjectDream.pdb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\obj\Xbox 360\Debug\ProjectDream.Tables.Strings.resources
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\obj\Xbox 360\Debug\Xbox 360 Copy (3) of ProjectDream.csproj.GenerateResource.Cache
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\obj\Xbox 360\Debug\ProjectDream.exe
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\obj\Xbox 360\Debug\ProjectDream.pdb

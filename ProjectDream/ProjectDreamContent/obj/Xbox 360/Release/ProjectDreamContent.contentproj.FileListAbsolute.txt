@@ -1,0 +1,2 @@
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDreamContent\obj\Xbox 360\Release\ProjectDreamContent.contentprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDreamContent\obj\Xbox 360\Release\ProjectDreamContent.contentprojResolveAssemblyReference.cache

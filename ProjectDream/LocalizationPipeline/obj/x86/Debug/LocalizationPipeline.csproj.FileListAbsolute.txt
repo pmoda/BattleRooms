@@ -1,0 +1,10 @@
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\LocalizationPipeline\bin\x86\Debug\LocalizationPipeline.dll
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\LocalizationPipeline\bin\x86\Debug\LocalizationPipeline.pdb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\LocalizationPipeline\obj\x86\Debug\LocalizationPipeline.dll
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\LocalizationPipeline\obj\x86\Debug\LocalizationPipeline.pdb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\LocalizationPipeline\obj\x86\Debug\LocalizationPipeline.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\LocalizationPipeline\bin\x86\Debug\LocalizationPipeline.dll
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\LocalizationPipeline\bin\x86\Debug\LocalizationPipeline.pdb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\LocalizationPipeline\obj\x86\Debug\LocalizationPipeline.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\LocalizationPipeline\obj\x86\Debug\LocalizationPipeline.dll
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\LocalizationPipeline\obj\x86\Debug\LocalizationPipeline.pdb

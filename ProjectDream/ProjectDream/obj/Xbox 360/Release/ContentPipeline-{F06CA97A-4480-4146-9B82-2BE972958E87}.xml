@@ -1,0 +1,586 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>FireballTactics\FireballMeter.png</Source>
+      <Name>FireballTactics\FireballMeter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\FireballMeter.xnb</Output>
+      <Time>2012-11-26T02:31:23.3846482-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Lumberjack Bustle\BranchObstacle.png</Source>
+      <Name>Lumberjack Bustle\BranchObstacle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\BranchObstacle.xnb</Output>
+      <Time>2012-10-28T16:53:52.9060863-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Lumberjack Bustle\ChopObstacle.png</Source>
+      <Name>Lumberjack Bustle\ChopObstacle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\ChopObstacle.xnb</Output>
+      <Time>2012-10-29T15:45:27.5092106-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Lumberjack Bustle\FloorObstacle.png</Source>
+      <Name>Lumberjack Bustle\FloorObstacle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\FloorObstacle.xnb</Output>
+      <Time>2012-10-28T16:54:18.5766396-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Lumberjack Bustle\treeBackground.png</Source>
+      <Name>Lumberjack Bustle\treeBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\treeBackground.xnb</Output>
+      <Time>2012-10-28T19:32:42.8020016-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Lumberjack Bustle\forestBackground.png</Source>
+      <Name>Lumberjack Bustle\forestBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\forestBackground.xnb</Output>
+      <Time>2012-10-28T19:23:01.3020091-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\BlueKnightSpriteSheet.png</Source>
+      <Name>Character\BlueKnightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\BlueKnightSpriteSheet.xnb</Output>
+      <Time>2012-10-30T12:59:11.1821023-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\BlackKnightSpriteSheet.png</Source>
+      <Name>Character\BlackKnightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\BlackKnightSpriteSheet.xnb</Output>
+      <Time>2012-10-30T12:59:11.1801014-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\GreenKnightSpriteSheet.png</Source>
+      <Name>Character\GreenKnightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\GreenKnightSpriteSheet.xnb</Output>
+      <Time>2012-10-30T12:59:11.1861054-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\PinkKnightSpriteSheet.png</Source>
+      <Name>Character\PinkKnightSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\PinkKnightSpriteSheet.xnb</Output>
+      <Time>2012-10-30T12:59:11.1881068-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Instruction\InstWizardAndScrolls.png</Source>
+      <Name>Instruction\InstWizardAndScrolls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Instruction\InstWizardAndScrolls.xnb</Output>
+      <Time>2012-10-31T20:24:52.2796778-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Lumberjack Bustle\InstBackForest.png</Source>
+      <Name>Lumberjack Bustle\InstBackForest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\InstBackForest.xnb</Output>
+      <Time>2012-10-31T20:24:52.3257087-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Instruction\LittleController.png</Source>
+      <Name>Instruction\LittleController</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Instruction\LittleController.xnb</Output>
+      <Time>2012-10-31T20:24:52.2926861-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Instruction\check.png</Source>
+      <Name>Instruction\check</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Instruction\check.xnb</Output>
+      <Time>2012-10-31T20:24:52.2936872-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Lumberjack Bustle\Countdown.png</Source>
+      <Name>Lumberjack Bustle\Countdown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\Countdown.xnb</Output>
+      <Time>2012-10-31T15:39:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Lumberjack Bustle\finishline.png</Source>
+      <Name>Lumberjack Bustle\finishline</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\finishline.xnb</Output>
+      <Time>2012-10-31T21:09:42.1747118-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Lumberjack Bustle\ffBackground.png</Source>
+      <Name>Lumberjack Bustle\ffBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\ffBackground.xnb</Output>
+      <Time>2012-11-17T00:19:47.7398111-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BumperBalls\prettyUnicorns.png</Source>
+      <Name>BumperBalls\prettyUnicorns</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\BumperBalls\prettyUnicorns.xnb</Output>
+      <Time>2012-11-01T00:38:58.5876453-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BumperBalls\CirclePlatform.png</Source>
+      <Name>BumperBalls\CirclePlatform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\BumperBalls\CirclePlatform.xnb</Output>
+      <Time>2012-11-01T02:19:36.0057533-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BumperBalls\Water.png</Source>
+      <Name>BumperBalls\Water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\BumperBalls\Water.xnb</Output>
+      <Time>2012-11-01T01:57:55.8555579-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Lumberjack Bustle\BlackHole.png</Source>
+      <Name>Lumberjack Bustle\BlackHole</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\BlackHole.xnb</Output>
+      <Time>2012-11-01T14:41:39.9499223-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Character\PatrickSprite.png</Source>
+      <Name>Character\PatrickSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\PatrickSprite.xnb</Output>
+      <Time>2012-11-11T11:38:31.3668637-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BumperBalls\iceplateform.png</Source>
+      <Name>BumperBalls\iceplateform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\BumperBalls\iceplateform.xnb</Output>
+      <Time>2012-11-16T12:45:08.4531763-05:00</Time>
+    </Item>
+    <Item>
+      <Source>FireballTactics\Fire.png</Source>
+      <Name>FireballTactics\Fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Fire.xnb</Output>
+      <Time>2012-11-25T20:10:43.9123513-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Duel\Sand.png</Source>
+      <Name>Duel\Sand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Duel\Sand.xnb</Output>
+      <Time>2012-11-21T20:02:23.1382713-05:00</Time>
+    </Item>
+    <Item>
+      <Source>FireballTactics\Fireball.png</Source>
+      <Name>FireballTactics\Fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Fireball.xnb</Output>
+      <Time>2012-11-25T20:10:43.9123513-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Score\Podium.png</Source>
+      <Name>Score\Podium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score\Podium.xnb</Output>
+      <Time>2012-11-25T22:46:12.0084367-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Score\ScoreBar.png</Source>
+      <Name>Score\ScoreBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score\ScoreBar.xnb</Output>
+      <Time>2012-11-25T22:46:12.0094357-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Score\ScoringBackgound.png</Source>
+      <Name>Score\ScoringBackgound</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score\ScoringBackgound.xnb</Output>
+      <Time>2012-11-26T02:31:23.4136688-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MiniGameScreens\Lumber1.png</Source>
+      <Name>Menus\MiniGameScreens\Lumber1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Lumber1.xnb</Output>
+      <Time>2012-11-26T12:02:35.4335794-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MiniGameScreens\Lumber2.png</Source>
+      <Name>Menus\MiniGameScreens\Lumber2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Lumber2.xnb</Output>
+      <Time>2012-11-26T12:02:35.4415843-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MiniGameScreens\Lumber3.png</Source>
+      <Name>Menus\MiniGameScreens\Lumber3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Lumber3.xnb</Output>
+      <Time>2012-11-26T12:02:35.4626004-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MiniGameScreens\BB1.png</Source>
+      <Name>Menus\MiniGameScreens\BB1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\BB1.xnb</Output>
+      <Time>2012-11-26T02:31:23.3896511-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MiniGameScreens\BB2.png</Source>
+      <Name>Menus\MiniGameScreens\BB2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\BB2.xnb</Output>
+      <Time>2012-11-26T02:31:23.3936537-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MiniGameScreens\BB3.png</Source>
+      <Name>Menus\MiniGameScreens\BB3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\BB3.xnb</Output>
+      <Time>2012-11-26T02:31:23.3976564-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MiniGameScreens\Dune1.png</Source>
+      <Name>Menus\MiniGameScreens\Dune1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Dune1.xnb</Output>
+      <Time>2012-11-26T02:31:23.4006584-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MiniGameScreens\Dune2.png</Source>
+      <Name>Menus\MiniGameScreens\Dune2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Dune2.xnb</Output>
+      <Time>2012-11-26T02:31:23.4046611-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MiniGameScreens\Dune3.png</Source>
+      <Name>Menus\MiniGameScreens\Dune3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Dune3.xnb</Output>
+      <Time>2012-11-26T02:31:23.408665-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MiniGameScreens\temp.bmp</Source>
+      <Name>Menus\MiniGameScreens\temp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\temp.xnb</Output>
+      <Time>2012-11-26T12:02:35.4706044-05:00</Time>
+    </Item>
+    <Item>
+      <Source>FireballTactics\Lava.png</Source>
+      <Name>FireballTactics\Lava</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Lava.xnb</Output>
+      <Time>2012-11-26T12:02:35.4075622-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Duel\Dunes.png</Source>
+      <Name>Duel\Dunes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Duel\Dunes.xnb</Output>
+      <Time>2012-11-26T20:16:55.9922039-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\cursor.png</Source>
+      <Name>Menus\cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\cursor.xnb</Output>
+      <Time>2012-11-26T20:16:56.0198581-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MainMenu.png</Source>
+      <Name>Menus\MainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MainMenu.xnb</Output>
+      <Time>2012-11-26T20:16:56.0188549-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\Credits.png</Source>
+      <Name>Menus\Credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\Credits.xnb</Output>
+      <Time>2012-11-26T20:16:56.0070034-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuFont.bmp</Source>
+      <Name>MenuFont</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\MenuFont.xnb</Output>
+      <Time>2012-11-26T20:56:01.8254548-05:00</Time>
+    </Item>
+    <Item>
+      <Source>FireballTactics\Firewall.png</Source>
+      <Name>FireballTactics\Firewall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Firewall.xnb</Output>
+      <Time>2012-11-28T02:20:02.9385781-05:00</Time>
+    </Item>
+    <Item>
+      <Source>FireballTactics\Ground.png</Source>
+      <Name>FireballTactics\Ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Ground.xnb</Output>
+      <Time>2012-11-28T02:20:02.940579-05:00</Time>
+    </Item>
+    <Item>
+      <Source>FireballTactics\Platform.png</Source>
+      <Name>FireballTactics\Platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Platform.xnb</Output>
+      <Time>2012-11-28T02:20:02.940579-05:00</Time>
+    </Item>
+    <Item>
+      <Source>StoryFont.bmp</Source>
+      <Name>StoryFont</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\StoryFont.xnb</Output>
+      <Time>2012-11-29T12:32:24.167226-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\CreditsText.png</Source>
+      <Name>Menus\CreditsText</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\CreditsText.xnb</Output>
+      <Time>2012-11-29T04:27:07.8592959-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MiniGameScreens\FT1.png</Source>
+      <Name>Menus\MiniGameScreens\FT1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\FT1.xnb</Output>
+      <Time>2012-11-30T15:48:51.3228046-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MiniGameScreens\FT2.png</Source>
+      <Name>Menus\MiniGameScreens\FT2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\FT2.xnb</Output>
+      <Time>2012-11-30T15:48:51.3368134-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MiniGameScreens\FT3.png</Source>
+      <Name>Menus\MiniGameScreens\FT3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\FT3.xnb</Output>
+      <Time>2012-11-30T15:48:51.3658314-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Score.spritefont</Source>
+      <Name>Score</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score.xnb</Output>
+      <Time>2012-10-31T16:37:42.9357086-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Instruction\InstructionSpriteFont.spritefont</Source>
+      <Name>Instruction\InstructionSpriteFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>LocalizedFontProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Instruction\InstructionSpriteFont.xnb</Output>
+      <Time>2012-11-01T00:38:58.5896467-04:00</Time>
+      <Dependency>
+        <Key>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\Tables\Strings.resx</Key>
+        <Value>2012-11-29T12:39:36.3411194-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Score\ScoreSpriteFont.spritefont</Source>
+      <Name>Score\ScoreSpriteFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>LocalizedFontProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score\ScoreSpriteFont.xnb</Output>
+      <Time>2012-11-25T22:46:12.0134383-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\Tables\Strings.resx</Key>
+        <Value>2012-11-29T12:39:36.3411194-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Score\ScoreTitleSpriteFont.spritefont</Source>
+      <Name>Score\ScoreTitleSpriteFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>LocalizedFontProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score\ScoreTitleSpriteFont.xnb</Output>
+      <Time>2012-11-25T22:46:12.0474554-05:00</Time>
+      <Dependency>
+        <Key>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\Tables\Strings.resx</Key>
+        <Value>2012-11-29T12:39:36.3411194-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>menumusic.mp3</Source>
+      <Name>menumusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\menumusic.xnb</Output>
+      <Extra>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\menumusic.wma</Extra>
+      <Time>2012-11-29T12:32:24.2072516-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{F06CA97A-4480-4146-9B82-2BE972958E87}</ContentProjectGUID>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDreamContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\obj\Xbox 360\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\LocalizationPipeline\bin\x86\Debug\LocalizationPipeline.dll</Key>
+        <Value>2013-01-06T21:58:16.0511342-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-09-13T01:14:36.3270376-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

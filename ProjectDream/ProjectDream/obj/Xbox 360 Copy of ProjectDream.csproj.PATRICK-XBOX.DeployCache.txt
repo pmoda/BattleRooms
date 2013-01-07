@@ -1,0 +1,141 @@
+a654a6591b314fceb3698a45279faa17
+0
+PATRICK-XBOX
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\
+129986560340000000
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\GameThumbnail.png
+2011-09-01T19:17:24.0000000Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\ProjectDream.exe
+2012-11-29T17:51:16.2701527Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\ProjectDream.exe.config
+2012-11-01T04:38:58.5836426Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\MenuFont.xnb
+2012-11-29T08:30:55.0497166Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\menumusic.wma
+2012-11-29T17:41:27.0086089Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\menumusic.xnb
+2012-11-29T17:41:27.0426318Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score.xnb
+2012-11-29T08:30:55.7061513Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\StoryFont.xnb
+2012-11-29T17:41:24.1378997Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\BumperBalls\CirclePlatform.xnb
+2012-11-29T08:30:31.4110497Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\BumperBalls\iceplateform.xnb
+2012-11-29T08:30:33.0531368Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\BumperBalls\prettyUnicorns.xnb
+2012-11-29T08:30:28.9784360Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\BumperBalls\Water.xnb
+2012-11-29T08:30:32.1945673Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\BlackKnightSpriteSheet.xnb
+2012-11-29T08:30:25.0788487Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\BlueKnightSpriteSheet.xnb
+2012-11-29T08:30:24.9867886Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\GreenKnightSpriteSheet.xnb
+2012-11-29T08:30:25.1689084Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\LumberjackBustle.xgs
+2012-11-29T08:31:03.8601769Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\PatrickSprite.xnb
+2012-11-29T08:30:32.4357267Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\PinkKnightSpriteSheet.xnb
+2012-11-29T08:30:25.2539669Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\Sound Bank.xsb
+2012-11-29T08:31:03.8881933Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\Wave Bank.xwb
+2012-11-29T08:31:03.8861937Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Duel\Dunes.xnb
+2012-11-29T08:30:51.7004962Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Duel\Sand.xnb
+2012-11-29T08:30:34.4370537Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Fire.xnb
+2012-11-29T08:30:33.1331890Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Fireball.xnb
+2012-11-29T08:30:34.4500623Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\FireballMeter.xnb
+2012-11-29T08:30:24.6615721Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Firewall.xnb
+2012-11-29T08:30:55.1497821Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Ground.xnb
+2012-11-29T08:30:55.1637896Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Lava.xnb
+2012-11-29T08:30:50.5347214Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Platform.xnb
+2012-11-29T08:30:55.1707956Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Instruction\check.xnb
+2012-11-29T08:30:27.3343441Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Instruction\instructionMusic.wma
+2012-11-29T08:31:02.2089461Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Instruction\instructionMusic.xnb
+2012-11-29T08:31:02.2389677Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Instruction\InstructionSpriteFont.xnb
+2012-11-29T17:41:24.1989406Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Instruction\InstWizardAndScrolls.xnb
+2012-11-29T08:30:26.2236096Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Instruction\LittleController.xnb
+2012-11-29T08:30:27.3143326Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\BennyHillTheme.wma
+2012-11-29T08:31:00.3065184Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\BennyHillTheme.xnb
+2012-11-29T08:31:00.3365400Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\BlackHole.xnb
+2012-11-29T08:30:32.3046390Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\BranchObstacle.xnb
+2012-11-29T08:30:24.6725816Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\ChopObstacle.xnb
+2012-11-29T08:30:24.7076039Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\Countdown.xnb
+2012-11-29T08:30:27.3643662Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\ff4victory.wma
+2012-11-29T08:31:03.6600421Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\ff4victory.xnb
+2012-11-29T08:31:03.6920633Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\ffBackground.xnb
+2012-11-29T08:30:27.5064578Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\finishline.xnb
+2012-11-29T08:30:27.3893819Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\FloorObstacle.xnb
+2012-11-29T08:30:24.7206130Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\forestBackground.xnb
+2012-11-29T08:30:24.8937260Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\InstBackForest.xnb
+2012-11-29T08:30:27.3053266Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\treeBackground.xnb
+2012-11-29T08:30:24.7966621Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\Credits.xnb
+2012-11-29T08:30:54.8655941Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\CreditsText.xnb
+2012-11-29T09:27:26.2563954Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\cursor.xnb
+2012-11-29T08:30:51.7305157Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MainMenu.xnb
+2012-11-29T08:30:53.2665321Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\BB1.xnb
+2012-11-29T08:30:40.8242873Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\BB2.xnb
+2012-11-29T08:30:42.0260821Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\BB3.xnb
+2012-11-29T08:30:43.2258787Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Dune1.xnb
+2012-11-29T08:30:45.0170642Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Dune2.xnb
+2012-11-29T08:30:46.8202615Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Dune3.xnb
+2012-11-29T08:30:48.6634837Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Lumber1.xnb
+2012-11-29T08:30:36.6385128Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Lumber2.xnb
+2012-11-29T08:30:38.3716616Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Lumber3.xnb
+2012-11-29T08:30:39.6795285Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\temp.xnb
+2012-11-29T08:30:48.6724905Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score\Podium.xnb
+2012-11-29T08:30:34.4700734Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score\ScoreBar.xnb
+2012-11-29T08:30:34.4830842Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score\ScoreSpriteFont.xnb
+2012-11-29T17:41:24.2649852Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score\ScoreTitleSpriteFont.xnb
+2012-11-29T17:41:24.5211614Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score\ScoringBackgound.xnb
+2012-11-29T08:30:35.3216379Z

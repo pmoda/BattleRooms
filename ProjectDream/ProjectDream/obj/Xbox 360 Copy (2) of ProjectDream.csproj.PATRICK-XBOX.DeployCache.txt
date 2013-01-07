@@ -1,0 +1,55 @@
+a654a6591b314fceb3698a45279faa17
+0
+PATRICK-XBOX
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\
+129962188180000000
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\GameThumbnail.png
+2011-09-01T19:17:24.0000000Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\ProjectDream.exe
+2012-11-01T04:56:00.6679455Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\ProjectDream.exe.config
+2012-11-01T04:38:58.5836426Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Score.xnb
+2012-11-01T04:46:14.7363261Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\BumperBalls\prettyUnicorns.xnb
+2012-11-01T04:46:14.4370290Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Character\BlackKnightSpriteSheet.xnb
+2012-11-01T04:46:10.0472716Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Character\BlueKnightSpriteSheet.xnb
+2012-11-01T04:46:09.9221857Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Character\GreenKnightSpriteSheet.xnb
+2012-11-01T04:46:10.2045119Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Character\LumberjackBustle.xgs
+2012-11-01T04:28:28.5731664Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Character\PinkKnightSpriteSheet.xnb
+2012-11-01T04:46:10.3392714Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Character\Sound Bank.xsb
+2012-11-01T04:28:28.5941801Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Character\Wave Bank.xwb
+2012-11-01T04:28:28.5921787Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Instruction\check.xnb
+2012-11-01T04:46:12.6268093Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Instruction\InstructionSpriteFont.xnb
+2012-11-01T04:46:14.8854259Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Instruction\InstWizardAndScrolls.xnb
+2012-11-01T04:46:11.4280054Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Instruction\LittleController.xnb
+2012-11-01T04:46:12.6067966Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Lumberjack Bustle\BranchObstacle.xnb
+2012-11-01T04:46:09.2455092Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Lumberjack Bustle\ChopObstacle.xnb
+2012-11-01T04:46:09.3025475Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Lumberjack Bustle\Countdown.xnb
+2012-11-01T04:46:12.6638346Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Lumberjack Bustle\ffBackground.xnb
+2012-11-01T04:46:12.8589654Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Lumberjack Bustle\finishline.xnb
+2012-11-01T04:46:12.7338838Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Lumberjack Bustle\FloorObstacle.xnb
+2012-11-01T04:46:09.3598348Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Lumberjack Bustle\forestBackground.xnb
+2012-11-01T04:46:09.7075114Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Lumberjack Bustle\InstBackForest.xnb
+2012-11-01T04:46:12.5777788Z
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Debug\Content\Lumberjack Bustle\treeBackground.xnb
+2012-11-01T04:46:09.5471758Z

@@ -1,0 +1,3 @@
+Content\Character\LumberjackBustle.xgs
+Content\Character\Wave Bank.xwb
+Content\Character\Sound Bank.xsb

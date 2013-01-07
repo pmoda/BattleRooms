@@ -1,0 +1,148 @@
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\FireballMeter.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\BranchObstacle.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\ChopObstacle.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\FloorObstacle.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\treeBackground.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\forestBackground.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\BlueKnightSpriteSheet.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\BlackKnightSpriteSheet.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\GreenKnightSpriteSheet.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\PinkKnightSpriteSheet.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Instruction\InstWizardAndScrolls.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\InstBackForest.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Instruction\LittleController.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Instruction\check.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\Countdown.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\finishline.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\ffBackground.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\BumperBalls\prettyUnicorns.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\BumperBalls\CirclePlatform.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\BumperBalls\Water.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\BlackHole.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\PatrickSprite.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\BumperBalls\iceplateform.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Fire.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Duel\Sand.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Fireball.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score\Podium.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score\ScoreBar.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score\ScoringBackgound.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Lumber1.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Lumber2.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Lumber3.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\BB1.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\BB2.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\BB3.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Dune1.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Dune2.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Dune3.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\temp.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Lava.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Duel\Dunes.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\cursor.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MainMenu.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\Credits.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\MenuFont.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Firewall.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Ground.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Platform.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\StoryFont.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Instruction\InstructionSpriteFont.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score\ScoreSpriteFont.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score\ScoreTitleSpriteFont.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\BennyHillTheme.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Instruction\instructionMusic.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\ff4victory.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\BennyHillTheme.wma
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Instruction\instructionMusic.wma
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\ff4victory.wma
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\LumberjackBustle.xgs
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\Wave Bank.xwb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\Sound Bank.xsb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\ProjectDream.exe.config
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\ProjectDream.exe
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\ProjectDream.pdb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\obj\Xbox 360\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\obj\Xbox 360\Release\ProjectDream.Tables.Strings.resources
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\obj\Xbox 360\Release\Xbox 360 Copy of ProjectDream.csproj.GenerateResource.Cache
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\obj\Xbox 360\Release\ProjectDream.exe
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\obj\Xbox 360\Release\ProjectDream.pdb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\CreditsText.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\menumusic.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\menumusic.wma
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\obj\Xbox 360\Release\Xbox 360 Copy of ProjectDream.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\FT1.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\FT2.xnb
+C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\FT3.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\FireballMeter.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\BranchObstacle.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\ChopObstacle.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\FloorObstacle.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\treeBackground.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\forestBackground.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\BlueKnightSpriteSheet.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\BlackKnightSpriteSheet.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\GreenKnightSpriteSheet.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\PinkKnightSpriteSheet.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Instruction\InstWizardAndScrolls.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\InstBackForest.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Instruction\LittleController.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Instruction\check.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\Countdown.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\finishline.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\ffBackground.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\BumperBalls\prettyUnicorns.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\BumperBalls\CirclePlatform.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\BumperBalls\Water.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Lumberjack Bustle\BlackHole.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\PatrickSprite.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\BumperBalls\iceplateform.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Fire.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Duel\Sand.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Fireball.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score\Podium.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score\ScoreBar.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score\ScoringBackgound.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Lumber1.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Lumber2.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Lumber3.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\BB1.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\BB2.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\BB3.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Dune1.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Dune2.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\Dune3.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\temp.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Lava.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Duel\Dunes.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\cursor.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MainMenu.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\Credits.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\MenuFont.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Firewall.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Ground.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\FireballTactics\Platform.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\StoryFont.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\CreditsText.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\FT1.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\FT2.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Menus\MiniGameScreens\FT3.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Instruction\InstructionSpriteFont.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score\ScoreSpriteFont.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Score\ScoreTitleSpriteFont.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\menumusic.xnb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\menumusic.wma
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\LumberjackBustle.xgs
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\Wave Bank.xwb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Content\Character\Sound Bank.xsb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Battle_Rooms.exe.config
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Battle_Rooms.exe
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\bin\Xbox 360\Release\Battle_Rooms.pdb
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\obj\Xbox 360\Release\Xbox 360 Copy of ProjectDream.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\obj\Xbox 360\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\obj\Xbox 360\Release\ProjectDream.Tables.Strings.resources
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\obj\Xbox 360\Release\Xbox 360 Copy of ProjectDream.csproj.GenerateResource.Cache
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\obj\Xbox 360\Release\Battle_Rooms.exe
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDream\obj\Xbox 360\Release\Battle_Rooms.pdb
