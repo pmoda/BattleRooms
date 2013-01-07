@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file contains an xml description of a font, and will be read by the XNA
+Framework Content Pipeline. Follow the comments to customize the appearance
+of the font in your game, and to change the characters which are available to draw
+with.
+-->
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics">
+  <Asset Type="LocalizationPipeline.LocalizedFontDescription">
+
+    <!--
+    Modify this string to change the font that will be imported.
+    -->
+    <FontName>Arial</FontName>
+
+    <!--
+    Size is a float value, measured in points. Modify this value to change
+    the size of the font.
+    -->
+    <Size>50</Size>
+
+    <!--
+    Spacing is a float value, measured in pixels. Modify this value to change
+    the amount of spacing in between characters.
+    -->
+    <Spacing>0</Spacing>
+
+    <!--
+    UseKerning controls the layout of the font. If this value is true, kerning information
+    will be used when placing characters.
+    -->
+    <UseKerning>true</UseKerning>
+
+    <!--
+    Style controls the style of the font. Valid entries are "Regular", "Bold", "Italic",
+    and "Bold, Italic", and are case sensitive.
+    -->
+    <Style>Regular</Style>
+
+    <!--
+    If you uncomment this line, the default character will be substituted if you draw
+    or measure text that contains characters which were not included in the font.
+    -->
+    <!-- <DefaultCharacter>*</DefaultCharacter> -->
+
+
+
+    <!--
+    CharacterRegions control what letters are available in the font. Every
+    character from Start to End will be built and made available for drawing. The
+    default range is from 32, (ASCII space), to 126, ('~'), covering the basic Latin
+    character set. The characters are ordered according to the Unicode standard.
+    See the documentation for more information.
+    -->
+    <CharacterRegions>
+      <CharacterRegion>
+        <Start>&#32;</Start>
+        <End>&#126;</End>
+      </CharacterRegion>
+    </CharacterRegions>
+
+    <!--
+    This information is not part of a normal .spritefont file, but was added by our
+    custom LocalizedFontDescription class, and used by the LocalizedFontProcessor.
+    Rather than having to manually specify hundreds of different character regions,
+    we can simply tell the processor what .resx files our game is going to load text
+    from. The processor will scan these resources, see what characters they use, and
+    automatically add the necessary characters to the font. This is especially useful
+    for languages such as Japanese and Korean, which have potentially thousands of
+    different characters, although games typically only use a small fraction of these.
+    Building only the characters we need is far more efficient than if we tried to
+    include the entire CJK character region.
+    -->
+    <ResourceFiles>
+      <Resx>..\ProjectDream\Tables\Strings.resx</Resx>
+    </ResourceFiles>
+  </Asset>
+</XnaContent>

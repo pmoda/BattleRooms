@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AButtonDefault" xml:space="preserve">
+    <value>N/A</value>
+  </data>
+  <data name="AButtonLumberjack" xml:space="preserve">
+    <value>Jump</value>
+  </data>
+  <data name="BackButtonDefault" xml:space="preserve">
+    <value>N/A</value>
+  </data>
+  <data name="BButtonDefault" xml:space="preserve">
+    <value>N/A</value>
+  </data>
+  <data name="CurrentLocale" xml:space="preserve">
+    <value>Current culture: {0}</value>
+  </data>
+  <data name="DescriptionLumberjack" xml:space="preserve">
+    <value>     Race through the wizard's 
+dark forest and secure your
+place in the living. Careful, the
+wizard has placed traps you must
+duck under, jump over or chop 
+through or be slowed down.
+
+Press "A" to start.</value>
+  </data>
+  <data name="DesriptionDefault" xml:space="preserve">
+    <value>N/A</value>
+  </data>
+  <data name="DirectionalPadDefault" xml:space="preserve">
+    <value>N/A</value>
+  </data>
+  <data name="DirectionalPadLumberjack" xml:space="preserve">
+    <value>Slide</value>
+  </data>
+  <data name="LeftBumperDefault" xml:space="preserve">
+    <value>N/A</value>
+  </data>
+  <data name="LeftStickDefault" xml:space="preserve">
+    <value>N/A</value>
+  </data>
+  <data name="LeftTriggerDefault" xml:space="preserve">
+    <value>N/A</value>
+  </data>
+  <data name="RightBumperDefault" xml:space="preserve">
+    <value>N/A</value>
+  </data>
+  <data name="RightStickDefault" xml:space="preserve">
+    <value>N/A</value>
+  </data>
+  <data name="RightTriggerDefault" xml:space="preserve">
+    <value>N/A</value>
+  </data>
+  <data name="StartButtonDefault" xml:space="preserve">
+    <value>N/A</value>
+  </data>
+  <data name="TitleDefault" xml:space="preserve">
+    <value>N/A</value>
+  </data>
+  <data name="TitleLumberjack" xml:space="preserve">
+    <value>Lumberjack Bustle</value>
+  </data>
+  <data name="XBoxButtonDefault" xml:space="preserve">
+    <value>N/A</value>
+  </data>
+  <data name="XButtonDefault" xml:space="preserve">
+    <value>N/A</value>
+  </data>
+  <data name="XButtonLumberjack" xml:space="preserve">
+    <value>Slash</value>
+  </data>
+  <data name="YButtonDefault" xml:space="preserve">
+    <value>N/A</value>
+  </data>
+  <data name="DescriptionBB" xml:space="preserve">
+    <value>     Stranded on a melting iceberg 
+and forced to spin uncontrollably, 
+you must survive this wizard`s
+test. Bump your so called friends 
+off the island to be the last player 
+standing. Work as a team to win.
+
+Press "A" to start.</value>
+  </data>
+  <data name="TitleBB" xml:space="preserve">
+    <value>Bumper Balls</value>
+  </data>
+  <data name="DirectionalPadBB" xml:space="preserve">
+    <value>Move</value>
+  </data>
+  <data name="PressAContinue" xml:space="preserve">
+    <value>Press "A" to continue</value>
+  </data>
+  <data name="ScoreTitle" xml:space="preserve">
+    <value>Scores</value>
+  </data>
+  <data name="AButtonFT" xml:space="preserve">
+    <value>Jump / Shoot</value>
+  </data>
+  <data name="BButtonFT" xml:space="preserve">
+    <value>Special Attack</value>
+  </data>
+  <data name="DescriptionFT" xml:space="preserve">
+    <value>     One will throw fire, while the
+others flee in this wizard's test.
+Setting three ablaze will allow
+for one to be the best.
+
+Press "A" to start.</value>
+  </data>
+  <data name="LeftStickFT" xml:space="preserve">
+    <value>Move</value>
+  </data>
+  <data name="TitleFT" xml:space="preserve">
+    <value>Fireball Tactics</value>
+  </data>
+  <data name="TitleDuel" xml:space="preserve">
+    <value>Dueling Dunes</value>
+  </data>
+  <data name="ChooseMode" xml:space="preserve">
+    <value>Minigames</value>
+  </data>
+  <data name="Credits" xml:space="preserve">
+    <value>Credits</value>
+  </data>
+  <data name="ExitGame" xml:space="preserve">
+    <value>Exit Game</value>
+  </data>
+  <data name="StoryMode" xml:space="preserve">
+    <value>Story Mode</value>
+  </data>
+  <data name="AButtonDuel" xml:space="preserve">
+    <value>Run</value>
+  </data>
+  <data name="BButtonDuel" xml:space="preserve">
+    <value>Run</value>
+  </data>
+  <data name="DescriptionDuel" xml:space="preserve">
+    <value>     The final test is for the two best.
+Fight the pull of the sinking sands 
+by pushing the designated button
+repeatedly. Watch your opponent 
+sink into the abyss, making you the 
+ultimate champion!
+
+Press "A" to start.</value>
+  </data>
+  <data name="XButtonDuel" xml:space="preserve">
+    <value>Run</value>
+  </data>
+  <data name="YButtonDuel" xml:space="preserve">
+    <value>Run</value>
+  </data>
+  <data name="DirectionalPadFT" xml:space="preserve">
+    <value>Move</value>
+  </data>
+  <data name="XButtonFT" xml:space="preserve">
+    <value>Duck</value>
+  </data>
+</root>
