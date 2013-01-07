@@ -1,4 +1,0 @@
-BattleRooms
-===========
-
-COMP376PROJECT
