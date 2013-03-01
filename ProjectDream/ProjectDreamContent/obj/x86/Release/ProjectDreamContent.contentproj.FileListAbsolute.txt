@@ -1,3 +1,4 @@
 C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDreamContent\obj\x86\Release\ResolveAssemblyReference.cache
 C:\Users\Patrick\Dropbox\Pat_School\FALL2012\COMP376\Project\comp376\ProjectDream\ProjectDreamContent\obj\x86\Release\Character\LumberjackBustle.xml
 C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDreamContent\obj\x86\Release\ProjectDreamContent.contentprojResolveAssemblyReference.cache
+C:\Users\Patrick\Documents\GitHub\BattleRooms\ProjectDream\ProjectDreamContent\obj\x86\Release\Character\LumberjackBustle.xml
